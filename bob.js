@@ -18,6 +18,7 @@ class bob
 
 	}
 	display()
+	
 	{
 			
 			var paperpos=this.body.position;
